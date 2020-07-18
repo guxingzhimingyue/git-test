@@ -8,7 +8,7 @@ public class Test1 {
         System.out.println("这是一个测试类");
         System.out.println("这是一个测试类");
         System.out.println("这是一个测试类");
-
+        System.out.println("这是我的另一个测试语句");
     }
 
     public void show(){
